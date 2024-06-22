@@ -26,7 +26,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alexdauenhauer/catppuccin-noctis-symbols.git"
+		"url": "https://github.com/alexdauenhauer/catppuccin-noctis-icons.git"
 	},
 	"author": {
 		"name": "Alex Dauenhauer"
@@ -43,7 +43,7 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "catppuccin noctis symbols",
+				"id": "catppuccin noctis icons",
 				"label": "Catppuccin Noctis Icons",
 				"path": "./src/symbol-icon-theme.modified.json",
 				"_watch": true
@@ -53,17 +53,17 @@
 			"type": "object",
 			"title": "Catppuccin Noctis Icons",
 			"properties": {
-				"catppuccin-noctis-symbols.hidesExplorerArrows": {
+				"catppuccin-noctis-icons.hidesExplorerArrows": {
 					"type": "boolean",
 					"default": false,
 					"description": "Hide arrow icons in the explorer section."
 				},
-				"catppuccin-noctis-symbols.folders.associations": {
+				"catppuccin-noctis-icons.folders.associations": {
 					"type": "object",
 					"default": {},
 					"description": "With this configuration can customize the folder icons."
 				},
-				"catppuccin-noctis-symbols.files.associations": {
+				"catppuccin-noctis-icons.files.associations": {
 					"type": "object",
 					"default": {},
 					"description": "With this configuration can customize the files icons."
