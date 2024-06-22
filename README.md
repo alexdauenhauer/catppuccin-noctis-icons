@@ -6,7 +6,7 @@
 
 A file icon for VS Code
 
-![Preview of extension](https://github.com/misolori/vscode-symbols/raw/main/preview.png)
+![Preview of extension](preview.png)
 
 </div>
 
