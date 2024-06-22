@@ -5,7 +5,7 @@
     <line x1="4.08643" y1="20.2509" x2="20.0864" y2="20.2509" stroke="#f38ba8" stroke-width="2"
         stroke-linecap="round" />
     <mask id="mask0_20565_673" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="20" y="4" width="4" height="7">
-        <rect x="21.0864" y="4.5" width="2" height="6" fill="#D9D9D9" stroke="#f38ba8" />
+        <rect x="21.0864" y="4.5" width="2" height="6" fill="#bac2de" stroke="#f38ba8" />
     </mask>
     <g mask="url(#mask0_20565_673)">
         <circle cx="20.6323" cy="8" r="2" stroke="#f38ba8" stroke-width="2" />
