@@ -45,7 +45,7 @@
 			{
 				"id": "catppuccin noctis icons",
 				"label": "Catppuccin Noctis Icons",
-				"path": "./src/symbol-icon-theme.modified.json",
+				"path": "./src/catppuccin-noctis-icon-theme.modified.json",
 				"_watch": true
 			}
 		],
