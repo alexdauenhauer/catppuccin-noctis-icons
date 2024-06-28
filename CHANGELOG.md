@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.2
+
+- remove preview tag
+
 ## 0.2.1
 
 - update README images
