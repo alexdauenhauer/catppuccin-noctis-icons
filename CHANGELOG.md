@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.3.0
+
+- add jupyter icon
+- update python icon
+
 ## 0.2.2
 
 - remove preview tag
