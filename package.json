@@ -1,9 +1,9 @@
 {
 	"name": "catppuccin-noctis-icons",
 	"displayName": "Catppuccin Noctis Icons",
-	"description": "A companion icons theme for Catppuccin Noctis color theme. Forked from Symbols Icon Theme",
-	"version": "0.3.0",
-	"publisher": "alexdauenhauer",
+	"description": "A companion icons theme for Catppuccin Noctis color theme. Forked from Symbols Icon Theme.",
+	"version": "0.3.1",
+	"publisher": "qzipp",
 	"icon": "logo.png",
 	"main": "./src/extension.js",
 	"engines": {
